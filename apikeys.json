@@ -1,0 +1,14 @@
+{
+    "binance":{
+        "apiKey":"G4aUu5MLb5DdNvcFfXYqgcY6fan1JuIWcT1PEwfA4Y5KglHaUS54aJ2u7t2BZVSi",
+        "secret":"d97mF44UW0c6fPxeZNnDbFeFFYJTngFbeBBMJ264KcCtlm1Sqbt6xR9hobK9Fmqt"
+    },
+    "bithumb":{
+        "apiKey":"1c028b5d72f72433a575843a62f1cd57",
+        "secret":"cc3eb30b7fc66d4db32790c34b8da165"
+    },
+    "upbit":{
+        "apiKey":"VZgmyUW4h1UjU1zJgxlTrjqXXfQA1XJUfaaDo9xv",
+        "secret":"2H3xrUEbHyqNULGcr2synkluB2saBR2twRo8xuFV"
+    }
+}
