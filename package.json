@@ -19,7 +19,7 @@
   "author": "Marc Timperley <marctimperley@yahoo.co.uk>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "ccxt": "^1.23.24",
     "chalk": "^2.4.2",
     "express": "^4.17.1",
